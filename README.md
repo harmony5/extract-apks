@@ -12,13 +12,13 @@ Simple utility to extract [APK](https://developer.android.com/guide/components/f
 Clone this repo:
 
 ```console
-git clone https://github.com/harmony5/extract-apks.git
+$ git clone https://github.com/harmony5/extract-apks.git
 ```
 
 Then add the `extract-apks` directory to your PATH:
 
 ```console
-echo "export PATH=$(pwd)/extract-apks:\$PATH >> ~/.bashrc"
+$ echo "export PATH=$(pwd)/extract-apks:\$PATH" >> ~/.bashrc
 ```
 
 ## Usage 🛠
